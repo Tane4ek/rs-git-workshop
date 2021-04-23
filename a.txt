@@ -2,4 +2,4 @@ ome text fot a.txt
 
 
 Modified from main;
-Changes from second;
+Changes from main
