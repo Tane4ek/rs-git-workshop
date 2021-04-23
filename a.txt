@@ -1,1 +1,3 @@
 ome text fot a.txt
+
+Changes from second
